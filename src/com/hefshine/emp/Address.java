@@ -1,6 +1,7 @@
 package com.hefshine.emp;
 
-public class Address {
+public class Address
+{
 	
 	private String city;
 	private String state;

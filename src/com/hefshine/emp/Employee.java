@@ -33,7 +33,8 @@ public class Employee {
 		this.name = name;
 	}
 
-	public Address getAddress() {
+	public Address getAddress() 
+	{
 		return address;
 	}
 

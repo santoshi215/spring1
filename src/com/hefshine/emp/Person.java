@@ -1,6 +1,7 @@
 package com.hefshine.emp;
 
-public class Person {
+public class Person
+{
 	
 @SuppressWarnings("unused")
 private Address address;
