@@ -1,7 +1,6 @@
 package com.hefshine.emp;
 
 public class Address {
-
 	
 	private String city;
 	private String state;
@@ -12,7 +11,6 @@ public class Address {
 		System.out.println("deafault const");
 	}
 	
-
 	public Address(String city, String state, String country) {
 		super();
 		this.city = city;
@@ -20,11 +18,9 @@ public class Address {
 		this.country = country;
 	}
 
-
 	public String getCity() {
 		return city;
 	}
-
 
 	public void setCity(String city) {
 		this.city = city;

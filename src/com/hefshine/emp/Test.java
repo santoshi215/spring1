@@ -11,8 +11,6 @@ public class Test {
 		ApplicationContext con=new ClassPathXmlApplicationContext("config.xml");
 		Employee emp=(Employee) con.getBean("e1");
 		emp.work();
-		
-
 	}
 
 }

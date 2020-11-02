@@ -9,9 +9,7 @@ private Address address;
 	public static void main(String[] args)
 	{
 	Address ad=new Address();
-	ad.display();
-			
-			
+	ad.display();		
 	}
 	
 	
